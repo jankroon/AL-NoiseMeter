@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter/DecibelMeter.csproj": {}
+  },
+  "projects": {
+    "/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter/DecibelMeter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter/DecibelMeter.csproj",
+        "projectName": "DecibelMeter",
+        "projectPath": "/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter/DecibelMeter.csproj",
+        "packagesPath": "/Users/jankroon/.nuget/packages/",
+        "outputPath": "/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jankroon/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

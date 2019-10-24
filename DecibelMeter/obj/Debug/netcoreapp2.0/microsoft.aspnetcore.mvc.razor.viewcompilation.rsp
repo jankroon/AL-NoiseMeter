@@ -1,0 +1,12 @@
+e:\Users\Michel\Documents\Visual Studio 2017\Projects\DecibelMeter\DecibelMeter
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=DecibelMeter
+--content-root=e:\Users\Michel\Documents\Visual Studio 2017\Projects\DecibelMeter\DecibelMeter
+--file=e:\Users\Michel\Documents\Visual Studio 2017\Projects\DecibelMeter\DecibelMeter\Views\Home\About.cshtml
+--file=e:\Users\Michel\Documents\Visual Studio 2017\Projects\DecibelMeter\DecibelMeter\Views\Home\Contact.cshtml
+--file=e:\Users\Michel\Documents\Visual Studio 2017\Projects\DecibelMeter\DecibelMeter\Views\Home\Index.cshtml
+--file=e:\Users\Michel\Documents\Visual Studio 2017\Projects\DecibelMeter\DecibelMeter\Views\Shared\Error.cshtml
+--file=e:\Users\Michel\Documents\Visual Studio 2017\Projects\DecibelMeter\DecibelMeter\Views\Shared\_Layout.cshtml
+--file=e:\Users\Michel\Documents\Visual Studio 2017\Projects\DecibelMeter\DecibelMeter\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=e:\Users\Michel\Documents\Visual Studio 2017\Projects\DecibelMeter\DecibelMeter\Views\_ViewImports.cshtml
+--file=e:\Users\Michel\Documents\Visual Studio 2017\Projects\DecibelMeter\DecibelMeter\Views\_ViewStart.cshtml

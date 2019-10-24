@@ -1,0 +1,24 @@
+e:/Users/Michel/Documents/Visual Studio 2017/Projects/DecibelMeter/DecibelMeter/bin/Release/netcoreapp2.0/DecibelMeter.deps.json
+e:/Users/Michel/Documents/Visual Studio 2017/Projects/DecibelMeter/DecibelMeter/bin/Release/netcoreapp2.0/DecibelMeter.runtimeconfig.json
+e:/Users/Michel/Documents/Visual Studio 2017/Projects/DecibelMeter/DecibelMeter/bin/Release/netcoreapp2.0/DecibelMeter.runtimeconfig.dev.json
+e:/Users/Michel/Documents/Visual Studio 2017/Projects/DecibelMeter/DecibelMeter/bin/Release/netcoreapp2.0/DecibelMeter.dll
+e:/Users/Michel/Documents/Visual Studio 2017/Projects/DecibelMeter/DecibelMeter/bin/Release/netcoreapp2.0/DecibelMeter.pdb
+e:/Users/Michel/Documents/Visual Studio 2017/Projects/DecibelMeter/DecibelMeter/obj/Release/netcoreapp2.0/DecibelMeter.csproj.CoreCompileInputs.cache
+e:/Users/Michel/Documents/Visual Studio 2017/Projects/DecibelMeter/DecibelMeter/obj/Release/netcoreapp2.0/DecibelMeter.AssemblyInfoInputs.cache
+e:/Users/Michel/Documents/Visual Studio 2017/Projects/DecibelMeter/DecibelMeter/obj/Release/netcoreapp2.0/DecibelMeter.AssemblyInfo.cs
+e:/Users/Michel/Documents/Visual Studio 2017/Projects/DecibelMeter/DecibelMeter/obj/Release/netcoreapp2.0/DecibelMeter.dll
+e:/Users/Michel/Documents/Visual Studio 2017/Projects/DecibelMeter/DecibelMeter/obj/Release/netcoreapp2.0/DecibelMeter.pdb
+/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter/bin/Release/netcoreapp2.0/appsettings.Development.json
+/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter/bin/Release/netcoreapp2.0/appsettings.json
+/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter/bin/Release/netcoreapp2.0/bundleconfig.json
+/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter/bin/Release/netcoreapp2.0/Properties/launchSettings.json
+/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter/bin/Release/netcoreapp2.0/DecibelMeter.deps.json
+/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter/bin/Release/netcoreapp2.0/DecibelMeter.runtimeconfig.json
+/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter/bin/Release/netcoreapp2.0/DecibelMeter.runtimeconfig.dev.json
+/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter/bin/Release/netcoreapp2.0/DecibelMeter.dll
+/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter/bin/Release/netcoreapp2.0/DecibelMeter.pdb
+/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter/obj/Release/netcoreapp2.0/DecibelMeter.AssemblyInfoInputs.cache
+/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter/obj/Release/netcoreapp2.0/DecibelMeter.AssemblyInfo.cs
+/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter/obj/Release/netcoreapp2.0/DecibelMeter.dll
+/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter/obj/Release/netcoreapp2.0/DecibelMeter.pdb
+/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter/obj/Release/netcoreapp2.0/DecibelMeter.csprojAssemblyReference.cache

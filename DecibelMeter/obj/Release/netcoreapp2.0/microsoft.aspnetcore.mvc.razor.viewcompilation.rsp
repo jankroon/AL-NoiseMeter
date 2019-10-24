@@ -1,0 +1,12 @@
+/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter
+--output-path=obj/Release/netcoreapp2.0/
+--application-name=DecibelMeter
+--content-root=/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter
+--file=/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter/Views/Home/About.cshtml
+--file=/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter/Views/Home/Contact.cshtml
+--file=/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter/Views/Home/Index.cshtml
+--file=/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter/Views/Shared/Error.cshtml
+--file=/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter/Views/Shared/_Layout.cshtml
+--file=/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter/Views/Shared/_ValidationScriptsPartial.cshtml
+--file=/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter/Views/_ViewImports.cshtml
+--file=/Users/jankroon/Desktop/DecibelMeter Thomas/DecibelMeter/Views/_ViewStart.cshtml
